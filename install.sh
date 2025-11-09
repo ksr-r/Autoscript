@@ -99,7 +99,7 @@ curl ipinfo.io/region > /root/.region
 
 
 #link izin ip vps
-url_izin='https://raw.githubusercontent.com/bumiayuasri/Autoscript/main/izin.txt'
+url_izin='https://raw.githubusercontent.com/greatautomate/Autoscript/refs/heads/main/izin.txt'
 
 # Mendapatkan IP VPS saat ini
 ip_vps=$(curl -sL ip.dekaa.my.id)
